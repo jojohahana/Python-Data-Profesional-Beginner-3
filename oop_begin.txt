@@ -1,0 +1,6 @@
+# Encapsulation: Menyembunyikan sebagian detail yang dimiliki oleh sebuah objek terhadap objek-objek lainnya. 
+# Inheritance: Menurunkan serangkaian fungsi-fungsi yang dimiliki oleh sebuah objek ke sebuah objek baru tanpa mengubah makna dari objek acuan yang digunakan.
+# Polymorphism: Konsep untuk menggunakan fungsi-fungsi dengan nama/tujuan yang sama dengan cara yang berbeda.
+
+# Class Attribute : properti/atribut yang bernilai sama untuk oleh seluruh objek
+# Instance Attribute : properti/atribut yang nilainya berbeda-beda untuk setiap objek dari sebuah class
