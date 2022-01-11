@@ -33,7 +33,7 @@ print(karyawan_baru2.nama)
 print(karyawan_baru2.usia)
 print(karyawan_baru2.total_pendapatan())
 # Karyawan baru ke-3 yang bernama Hadi, pendapatan 8000000          
-karyawan_baru3 = Karyawan('Hadi', 8000000)
+karyawan_baru3 = Karyawan(nama='Hadi', pendapatan=8000000)
 print(karyawan_baru3.nama)
 print(karyawan_baru3.usia)
 print(karyawan_baru3.total_pendapatan())
